@@ -1,0 +1,22 @@
+body{
+  background-color: gray;
+  overflow: hidden;
+}
+
+.area{
+  position: absolute;
+  border: 5px solid black;
+  background-color: white;
+}
+
+input.color-selector{
+  position:absolute;
+}
+
+button.clear-all{
+  position:absolute;
+}
+
+input.size{
+  position:absolute;
+}
