@@ -2,7 +2,7 @@
 
 **General Information**
 
-A project for drawing. It allows the user to draw on a canvas. Pick the size and the color of the paint and start drawing. 
+A simple project for drawing. It allows the user to draw on a canvas. Pick the size and the color of the paint and start drawing. 
 
 **Technologies**
 
